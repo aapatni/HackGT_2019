@@ -1,0 +1,20 @@
+{
+  "name": "hackgt_2019",
+  "version": "1.0.0",
+  "description": "Pose Estimation used for learning new dance moves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapatni/hackgt_2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aapatni/hackgt_2019/issues"
+  },
+  "homepage": "https://github.com/aapatni/hackgt_2019#readme"
+}
